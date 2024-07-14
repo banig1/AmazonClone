@@ -1,0 +1,28 @@
+.open{
+    background-color: #131921;
+    color: aliceblue;
+    height: 680px;
+    text-align: center;
+    padding-top: 200px
+    ;
+    }
+.continue{
+    background-color: #FFD814;
+    border-color: #FCD200;
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+    width: 232px;
+    height: 35px;
+    padding: 1px 6px;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.welcome{
+    font-size: 85px;
+}
+.logged{
+    font-size: 20px;
+    padding: 10px 0 20px 0;
+}
